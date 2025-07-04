@@ -24,8 +24,8 @@ Our work is organized into the following directories:
 
 ### Our Team
 
-* **[Liu Zhonglin(Joe)]**: Team leader, Main Producer
-* **[Li KangCheng]**: Manim Tutor, Tutorial Production
+* **Liu Zhonglin(Joe)**: Team leader, Main Producer
+* **Li KangCheng**: Manim Tutor, Tutorial Production
 * **[Roommate 2's Name]**: Manim Tutor, Tutorial Production
 
 ### Getting Started
