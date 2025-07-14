@@ -24,7 +24,7 @@ Our work is organized into the following directories:
 
 ### Our Team
 
-* **Liu Zhonglin (Joe)**: Team leader, Main Producer  
+* **[Liu Zhonglin (Joe)](https://github.com/Liu-Zhonglin)**: Team leader, Main Producer  
 * **[Li KangCheng (Rankin)](https://github.com/pieceofvegetable)**: Manim Tutor, Tutorial Production  
 * **[Guo Kunhan (Alex)](https://github.com/alexguo0521)**: Manim Tutor, Tutorial Production
 
